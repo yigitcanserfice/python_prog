@@ -1,5 +1,5 @@
 class sinif:
-    metin = ""
+    metin = "asda"
     def __init__(self, a):
         self.metin = a
 
