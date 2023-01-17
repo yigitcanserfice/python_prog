@@ -1,5 +1,5 @@
 dosya = open("cop.txt", 'w')
 
-print("qwewqeqweqw", file=dosya)
+print("qwewqeqweqwsdasdasd", file=dosya)
 
 dosya.close()
